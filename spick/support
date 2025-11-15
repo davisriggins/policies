@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buildwell Studios - Support</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f7;
+        }
+        .container {
+            background-color: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1d1d1f;
+            font-size: 2.5em;
+            margin-bottom: 0.3em;
+        }
+        h2 {
+            color: #1d1d1f;
+            font-size: 1.8em;
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+        }
+        h3 {
+            color: #1d1d1f;
+            font-size: 1.3em;
+            margin-top: 1.2em;
+            margin-bottom: 0.5em;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+        a {
+            color: #007AFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .email-link {
+            font-size: 1.1em;
+            font-weight: 500;
+        }
+        .footer {
+            margin-top: 3em;
+            padding-top: 2em;
+            border-top: 1px solid #d2d2d7;
+            text-align: center;
+            color: #86868b;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>BuildWell Studios Support</h1>
+        <p>We're here to help! Whether you have a question, need technical support, or want to share feedback about our apps, we'd love to hear from you.</p>
+        
+        <h2>Contact Us</h2>
+        <p class="email-link">📧 Email: <a href="mailto:buildwellstudios@gmail.com">buildwellstudios@gmail.com</a></p>
+        <p>We typically respond within 24-48 hours.</p>
+        
+        <h2>Our Apps</h2>
+        
+        <h3>Spick - Household Management</h3>
+        <p>Having trouble with Spick? Here are some quick answers:</p>
+        <ul>
+            <li><strong>How do I invite household members?</strong><br>
+                Go to More → Manage My Household and share your household's invite code with family or roommates.</li>
+            <li><strong>How do I assign tasks?</strong><br>
+                When creating or editing a task, toggle "Assign to User" and select a household member.</li>
+            <li><strong>How do I delete a task?</strong><br>
+                Long-press on any task to see options for editing or deleting.</li>
+            <li><strong>How do I delete my account?</strong><br>
+                Go to More → scroll to the bottom to find "Delete My Account".</li>
+        </ul>
+        
+        <h2>Feature Requests</h2>
+        <p>Have an idea for a new feature or improvement? We'd love to hear it! Send us an email with your suggestions.</p>
+        
+        <h2>Bug Reports</h2>
+        <p>If you encounter any issues or bugs, please email us with:</p>
+        <ul>
+            <li>A description of the problem</li>
+            <li>Steps to reproduce the issue</li>
+            <li>Your device model and iOS version</li>
+            <li>Screenshots (if applicable)</li>
+        </ul>
+        
+        <div class="footer">
+            <p><a href="privacy-policy.html">Privacy Policy</a></p>
+            <p>&copy; 2024 Buildwell Studios. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
